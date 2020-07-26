@@ -2,7 +2,7 @@
 
 /**
  * Laravel - A PHP Framework For Web Artisans
- *
+ * JINTIAN阳关
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
